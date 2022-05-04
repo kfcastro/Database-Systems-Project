@@ -1,5 +1,5 @@
-**A Group Project**
-**for**
+### A Group Project
+### for
 # CMCS 127: Database Systems Project
 ---
 
